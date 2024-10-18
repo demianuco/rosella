@@ -2,6 +2,7 @@
 
 - [[Primera Explicación | 2024-10-16 - Primera Explicación]]
 
+
 # Diseños
 
 - [[planos-originales.pdf | Planos arquitectura originales]]
